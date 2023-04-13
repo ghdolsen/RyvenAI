@@ -14,7 +14,7 @@ REDIRECT_CONSOLE_OUTPUT = True
 
 
 def run(qt_app=None, qt_api='pyside2',
-        show_dialog=True, gui_parent=None, window_title='Ryven',
+        show_dialog=True, gui_parent=None, window_title='Ryven AI',
         window_theme_name='dark', flow_theme=None,
         redirect_console_output=REDIRECT_CONSOLE_OUTPUT):
 
